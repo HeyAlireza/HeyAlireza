@@ -1,16 +1,21 @@
-### Hi there 👋
+### ⭐ Who am i ?
+### Front-End Developer & Love programming challenges !
 
-<!--
-**HeyAlireza/HeyAlireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+### 💙 My Skills :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+##
+
+### 🔥 My Status :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devaliii&theme=dark&background=0c0d22)](https://github.com/DevAliii)
